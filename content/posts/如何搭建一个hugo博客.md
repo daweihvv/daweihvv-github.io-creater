@@ -56,7 +56,7 @@ draft: fleas
 ---
 ```
 
-![开博大吉](./1.png)
+![开博大吉](./image/1.png)
 
 - set5
 
@@ -88,6 +88,6 @@ hugo
 4. 在 github 创建一个新的仓库
 5. 将 public 文件夹上传上去
 6. 刷新仓库，接着点右上角的 settings <br>
-   ![settings](./2.png)
+   ![settings](./image/2.png)
 7. 找到 github pages 点开自己的博客 <br>
-   ![域名](./3.png)
+   ![域名](./image/3.png)
